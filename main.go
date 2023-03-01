@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/TonyLe02/funtemps/conv"
-	"github.com/TonyLe02/funtemps/funfacts"
+	"funtemps/conv"
+	"funtemps/funfacts"
 )
 
 // Definisjon om flag
